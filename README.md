@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/OmarYasser225/OmarYasser225/blob/main/Code.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Omar Yasser</h1>
 <h3 align="center">A passionate Embedded Software Engineer</h3>
